@@ -1,6 +1,6 @@
 My first readme
 Created a README file
-Create 0x01-git file
+Create 0x03-git file
 Created empty files
 c/c_is_fun.c
 js/main.js
